@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 import math
 
-#Making an rgb class that works like a vector namespace in unity C#
+
 class RGB:
     def __init__(self, r, g, b):
         self.r = r
